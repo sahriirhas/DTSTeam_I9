@@ -222,7 +222,7 @@ input[name="r"] {
 /* kontak */
 .marginkontak{
 	margin-top:16px!important;
-	margin-bottom:16px!important
+	margin-bottom:16px!important;
 }
 
 .input{
@@ -230,7 +230,7 @@ input[name="r"] {
 	display:block;
 	border:none;
 	border-bottom:1px solid #ccc;
-	width:100%
+	width:100%;
 }
 
 .inputpesan{
@@ -238,7 +238,7 @@ input[name="r"] {
 	display:block;
 	border:none;
 	border-bottom:1px solid #ccc;
-	width:100%
+	width:100%;
 }
 /* kontak */
 footer img {
