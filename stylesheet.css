@@ -224,7 +224,26 @@ input[name="r"] {
 	margin-top:16px!important;
 	margin-bottom:16px!important;
 }
-
+.marginkontak {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+h5 {
+	text-align: center;
+}
+span.btn.message {
+	text-color: #0000FF;
+	text-align: center;
+	background-color: rgb(169, 169, 169);
+	cursor: pointer;
+	box-shadow: 0 7px #B8860B;
+}
+.message: active {
+	position: relative;
+	box-shadow: none;
+}		
 .input{
 	padding:8px;
 	display:block;
