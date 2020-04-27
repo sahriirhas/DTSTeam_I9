@@ -219,6 +219,28 @@ input[name="r"] {
 }
 
 /* pak suryadi */
+/* kontak */
+.marginkontak{
+	margin-top:16px!important;
+	margin-bottom:16px!important
+}
+
+.input{
+	padding:8px;
+	display:block;
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%
+}
+
+.inputpesan{
+	padding:70px;
+	display:block;
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%
+}
+/* kontak */
 footer img {
     width: 6%;
     display: block;
