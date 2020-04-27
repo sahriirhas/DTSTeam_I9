@@ -244,7 +244,7 @@ span.btn.message {
 	box-shadow: 1px 1px 4px 8px #B8860B;;
 }
 
-.message: active {
+.message:active {
 	position: relative;
 	top: 7px;
 	box-shadow: none;
