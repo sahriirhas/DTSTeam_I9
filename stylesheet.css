@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    font-family: "Lucida Sans";
+    font-family: 'Andika', sans-serif;
 }
 
 a {
@@ -75,7 +75,7 @@ header {
 .main span {
     font-weight: bold;
     font-size: 60px;
-    font-family: "Comic Sans MS";
+    font-family: 'Noto Sans JP', sans-serif;
     text-shadow: 3px 3px rgb(54, 42, 223);
     letter-spacing: 3px;
 }
@@ -163,84 +163,68 @@ input[name="r"] {
 #r5:checked~.s1 {
     margin-left: -80%;
 }
-/* ini bagian saya @sUSAN */
-* {
-  box-sizing: border-box;
-}
 
-html, body,
-ul, ol, li,
-h1, h2, h3, h4, h5, h6, p, div {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font-family: "Lucida Grande";
-}
-
-a {
-  text-decoration: none;
-}
-
-img {
-  width: 210px;
-  height: 180px;
+/* punya bu susan */
+.lessons img {
+    width: 200px;
+    height: 180px;
+    border-radius: 50%;
 }
 
 .clear {
-  clear: left;
+    clear: left;
 }
-
-.container {
-  max-width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-
 
 .lesson-wrapper {
-  padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-color: #AFEEEE;
-  text-align: center;
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 .heading {
-  padding-top: 80px;
-  padding-bottom: 50px;
-  color: #5f5d60;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: #5f5d60;
 }
 
-.heading h2 {
-  font-weight: normal;
+.heading h1 {
+    font-weight: normal;
 }
 
 .lesson {
-  float: left;
-  width: 25%;
+    float: left;
+    width: 20%;
 }
 
 .lesson-icon {
-  position: relative;
+    position: relative;
 }
 
 .lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
+    position: absolute;
+    top: 44%;
+    width: 100%;
 }
 
-.text-contents {
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 15px;
-  color: #b3aeb5;
+.txt-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
 }
 
 .heading h3 {
-  font-weight: normal;
+    font-weight: normal;
+}
+
+/* pak suryadi */
+footer img {
+    width: 6%;
+    display: block;
+}
+
+footer {
+    padding: 5px 0 0 50px;
+    background-color: rgb(41, 94, 209);
 }
