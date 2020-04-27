@@ -38,6 +38,24 @@
         height: 15px;
         margin: 10px;
     }
+
+    /* bu Susan */
+    .lesson {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .heading h2 {
+        font-size: 20px;
+    }
+
+    /* pak suryadi */
+    footer img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+        padding: 0;
+    }
 }
 
 /* untuk hape */
@@ -83,6 +101,19 @@
     }
 
     .main {
-        height: 700px
+        height: 700px;
+    }
+
+    /* bu Susan */
+    .lesson {
+        width: 100%;
+    }
+
+    /* pak suryadi */
+    footer img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+        padding: 0;
     }
 }
