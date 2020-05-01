@@ -273,7 +273,7 @@ footer img {
 
 footer {
     padding: 5px 0 0 50px;
-    background-color: rgb(41, 94, 209);
+    background-color: red;
     position: absolute;
     animation-name: footer;
     animation-duration: 5s;
