@@ -275,7 +275,7 @@ footer {
     padding: 5px 0 0 50px;
     background-color: rgb(41, 94, 209);
     position: absolute;
-    animation-name: example;
+    animation-name: footer;
     animation-duration: 5s;
     animation-timing-function: linear;
     animation-delay: 2s;
@@ -283,7 +283,7 @@ footer {
     animation-direction: alternate;
 }
   
-  @keyframes example {
+  @keyframes footer {
     0%   {background-color:red; left:0px; top:0px;}
     25%  {background-color:yellow; left:200px; top:0px;}
     50%  {background-color:blue; left:200px; top:200px;}
