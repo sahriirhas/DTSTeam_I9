@@ -242,12 +242,6 @@ span.btn.message {
 	cursor: pointer;
 	box-shadow: 1px 1px 4px 8px #B8860B;
 	background-color: red;
-  	animation-name: example1;
-  	animation-duration: 4s;
-}
-@keyframes example1 {
-  from {background-color: red;}
-  to {background-color: yellow;}
 }
 
 .message:active {
