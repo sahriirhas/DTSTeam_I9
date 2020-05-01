@@ -273,16 +273,16 @@ footer img {
 
 footer {
     padding: 5px 0 0 50px;
-    background-color: red;
+    background-color: green;
     animation-name: example;
     animation-duration: 4s;
     animation-iteration-count: infinite;
 }
 
   @keyframes example {
-  0%   {background-color: red;}
+  0%   {background-color: green;}
   25%  {background-color: yellow;}
   50%  {background-color: blue;}
   75%  {background-color: grey;}
-  100% {background-color: green;}
+  100% {background-color: red;}
 }
