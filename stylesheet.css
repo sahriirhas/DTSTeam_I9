@@ -239,7 +239,6 @@ h5 {
 
 span.btn.message {
 	text-align: center;
-	background-color: rgb(169, 169, 169);
 	cursor: pointer;
 	box-shadow: 1px 1px 4px 8px #B8860B;
 	background-color: red;
@@ -247,7 +246,7 @@ span.btn.message {
   	animation-duration: 4s;
 }
 @keyframes example1 {
-  from {background-color: rgb(169, 169, 169);}
+  from {background-color: red;}
   to {background-color: yellow;}
 }
 
