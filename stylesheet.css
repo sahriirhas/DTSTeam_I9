@@ -255,7 +255,7 @@ span.btn.message {
 	display: block;
 	border: none;
 	border-bottom: 1px solid #ccc;
-	width: 100%;
+	width: 50%;
 }
 
 .inputpesan {
@@ -274,7 +274,7 @@ footer img {
 footer {
     padding: 5px 0 0 50px;
     background-color: rgb(41, 94, 209);
-    position: static;
+    position: absolute;
     animation-name: example;
     animation-duration: 5s;
     animation-timing-function: linear;
