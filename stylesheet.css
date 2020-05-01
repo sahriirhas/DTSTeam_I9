@@ -274,4 +274,13 @@ footer img {
 footer {
     padding: 5px 0 0 50px;
     background-color: rgb(41, 94, 209);
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+  @keyframes example {
+  0%   {background-color: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
 }
