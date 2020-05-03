@@ -28,10 +28,18 @@ a {
 header {
     height: 60px;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: red);
     position: fixed;
     top: 0px;
     z-index: 10;
+    animation-name: examplesatu;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+  @keyframes examplesatu {
+  from {background-color: red;}
+  to {background-color: yellow;}
 }
 
 .logo {
